@@ -1,0 +1,4 @@
+Error: Selenium exited before it could start
+Another Selenium process may already be running or your java version may be out of date.
+
+command: killall java
