@@ -56,3 +56,4 @@ reports
 
 # Text Editors
 .vscode
+node_modules
