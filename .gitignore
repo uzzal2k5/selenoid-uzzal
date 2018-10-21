@@ -57,3 +57,4 @@ reports
 # Text Editors
 .vscode
 node_modules
+package-lock.json
